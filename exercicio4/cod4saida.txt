@@ -1,0 +1,16 @@
+Crie: 1
+um: 2
+programa: 1
+em: 1
+C: 1
+que: 1
+lê: 1
+arquivo: 1
+de: 2
+texto: 1
+e: 1
+conta: 1
+a: 1
+frequência: 1
+cada: 1
+palavra: 1

@@ -1,0 +1,1 @@
+Crie um programa em C que lê um arquivo de texto e conta a frequência de cada palavra
